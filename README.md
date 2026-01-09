@@ -1,4 +1,4 @@
 # Shubham
 This is my first repository.
 <br>
-Author - Shubham
+Author - Shubham Bhagat
